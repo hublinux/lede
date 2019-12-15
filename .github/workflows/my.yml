@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-进阶版github云编译1.0-x86_64固件平台
+name: OpenWrt-进阶版github云编译2.0-x86_64固件平台
 
 on:
   schedule:
