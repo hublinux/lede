@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-进阶版云编译1.0-X64更换固件平台
+name: OpenWrt-进阶版云编译1.0-x86_64固件平台
 
 on:
   schedule:
@@ -105,7 +105,7 @@ jobs:
           cat >> .config <<EOF
           CONFIG_EFI_IMAGES=y
           EOF
-          IPv6支持:
+          # IPv6支持:
           cat >> .config <<EOF
           CONFIG_PACKAGE_dnsmasq_full_dhcpv6=y
           CONFIG_PACKAGE_ipv6helper=y
