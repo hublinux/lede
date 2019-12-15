@@ -12,9 +12,9 @@ name: 进阶版github云编译2.0-x86_64固件平台
 on:
   schedule:
     - cron: 0 20 * * *
-  push:
-    branches: 
-      - master
+ # push:
+  #  branches: 
+   #   - master
 
 jobs:
   build:
