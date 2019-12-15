@@ -60,7 +60,7 @@ jobs:
           git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git
           git clone https://github.com/Aslin-Ameng/luci-theme-netgear.git
 	  git clone https://github.com/jerrykuku/luci-theme-argon.git
-          git clone https://github.com/nutbolt/luci-theme-bootstrap.git
+          # git clone https://github.com/nutbolt/luci-theme-bootstrap.git
           git clone https://github.com/Ameykyl/luci-app-koolproxyR
           git clone https://github.com/rosywrt/luci-theme-rosy
 	  git clone https://github.com/maxlicheng/luci-app-unblockmusic.git
