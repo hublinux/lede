@@ -227,7 +227,7 @@ jobs:
           cat >> .config <<EOF
           CONFIG_PACKAGE_luci-theme-argon=y
           CONFIG_PACKAGE_luci-theme-atmaterial=y
-          CONFIG_PACKAGE_luci-theme-netgear=y
+          # CONFIG_PACKAGE_luci-theme-netgear=y
           # CONFIG_PACKAGE_luci-theme-rosy=y
           # CONFIG_PACKAGE_uci-theme-bootstrap=y
           EOF
