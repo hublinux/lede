@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-Github云编译2.0-(x86_X64)更换固件平台
+name: OpenWrt-Github云编译2.0_x86_X64
 
 on:
   schedule:
