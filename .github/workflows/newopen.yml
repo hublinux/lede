@@ -228,9 +228,8 @@ jobs:
           CONFIG_PACKAGE_luci-theme-argon=y
           CONFIG_PACKAGE_luci-theme-atmaterial=y
           CONFIG_PACKAGE_luci-theme-netgear=y
-          CONFIG_PACKAGE_luci-theme-netgear=y
-          CONFIG_PACKAGE_luci-theme-rosy=y
-          CONFIG_PACKAGE_uci-theme-bootstrap=y
+          # CONFIG_PACKAGE_luci-theme-rosy=y
+          # CONFIG_PACKAGE_uci-theme-bootstrap=y
           EOF
 
           # 常用软件包:
