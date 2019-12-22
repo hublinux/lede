@@ -12,9 +12,9 @@ name: Github云编译2.0_x86_X64
 on:
   schedule:
     - cron: 0 20 * * *
-  push:
-     branches: 
-       - master
+  # push:
+     # branches: 
+       # - master
 
 jobs:
   build:
